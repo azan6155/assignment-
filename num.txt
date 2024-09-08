@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main(void) {
+
+int a,b;
+
+printf("Enter your favourite number for a");
+scanf("%d", &a);
+printf("Enter your favourite number for b");
+scanf("%d", &b);
+
+printf("Original Values:\n");
+printf("a = %d, b = %d")
+temp=a;
+(swaping values)
+a=b
+b=temp
+
+printf("Swapped values: "a = %d , b = %d"")
+
+return 0;
+
+}

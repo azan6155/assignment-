@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+ 
+  float
+
+printf("Enter your salary and taxrate")
+scanf("%f,%f, Salary and taxrate);
+
+Pay=(Tax Rate/100)*100;
+After calculating tax
+outout
+print("you will pay ($tax/salary*100) after tax)
+
+return 0;
+
+}

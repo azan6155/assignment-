@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+ 
+  float
+slope (X1,X2) (Y1,Y2);
+
+printf("Input point slopes")
+       (X1,X2,Y1,Y2
+scanf("#f,#f,#f,#f , X1,X2,Y1,Y2");
+
+
+slope=(y2-y1) / (x2-x1)
+
+return 0;
+
+}
